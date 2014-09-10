@@ -1,4 +1,4 @@
-datasciencecoursea
+datasciencecoursera
 ==================
 
 Required repo for Coursera 
